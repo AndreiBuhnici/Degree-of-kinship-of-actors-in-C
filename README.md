@@ -7,3 +7,4 @@ based on actors that starred in the same movies;
 - It also calculates a distance vector between 2 actors (degree of kinship);
 - It determines the number of bridges in a convex and writes the contents of the BST in lexicographic order;
 - 2 extra files with implementations for BST and queue;
+- 2 actors can be "related" through other actors;
